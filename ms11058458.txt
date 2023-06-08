@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "aflahertyphotography.github.io",
+  "Id": "3a137a90-3227-44eb-959d-fd0a4a830622"
+}
